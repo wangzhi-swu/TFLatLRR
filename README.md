@@ -2,7 +2,7 @@ Matlab Code for Subspace Clustering:
 
 Reference: Zhuo Liu, Dong Hu, and Zhi Wang*. Efficient Implementation of Truncated Frobenius Norm Minimization for Latent Low-Rank Representation. ECML-PKDD, 2023.
 
-This code is written by Zhuo Liu, Southwest Universiy, 2023
+This code is written by Zhuo Liu under the guidance of Dr. Zhi Wang, Southwest Universiy, 2023
 
 For algorithm interpretation, please read our paper, in which more details are demonstrated.
 
